@@ -18,6 +18,7 @@ public void maintain_books()
 {
 	//Method Body
 	System.out.println("arrange books");
+System.out.println("Maintining Books Area");
 }
 public void collect_fees()
 {
@@ -29,7 +30,7 @@ public void collect_fees()
 	{
 		System.out.println("Not paid");
 		
-	}
+}
 	
 }
 }
