@@ -1,4 +1,5 @@
-public class Library{
+public class Library
+{
 int annualFees=50;
 boolean lendbooks=true;
 float salary=18000.0f;
@@ -35,7 +36,7 @@ public void collect_fees()
 }
 
 
-
+no need to write maintain_books and collect_fees
 
 
 
